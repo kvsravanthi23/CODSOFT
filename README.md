@@ -1,8 +1,4 @@
 # TASK-2
+# Responsive Landing Page
 
-TASK 2:Portfolio
-<br>
-.index.html
-<br>
-.style.css
-<br><br>
+A simple and responsive landing page built using HTML and CSS. This project is ideal for beginners looking to practice frontend development fundamentals and responsive web design.
